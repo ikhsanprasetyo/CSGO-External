@@ -25,14 +25,14 @@ namespace Offsets
 {
     constexpr uintptr_t dwLocalPlayer = 0xDB75DC;
     constexpr uintptr_t m_fFlags = 0x104;
-    constexpr uintptr_t dwForceJump = 0x527D370;
-    constexpr uintptr_t dwEntityList = 0x4DD345C;
-    constexpr uintptr_t dwGlowObjectManager = 0x531C060;
+    constexpr uintptr_t dwForceJump = 0x527D390;
+    constexpr uintptr_t dwEntityList = 0x4DD347C;
+    constexpr uintptr_t dwGlowObjectManager = 0x531C058;
     constexpr uintptr_t m_iTeamNum = 0xF4;
     constexpr uintptr_t m_iGlowIndex = 0x10488;
     constexpr uintptr_t m_bSpotted = 0x93D;
     //triggerbot
-    constexpr uintptr_t dwForceAttack = 0x3203928;
+    constexpr uintptr_t dwForceAttack = 0x3203948;
     constexpr uintptr_t m_iHealth = 0x100;
     constexpr uintptr_t m_iCrosshairId = 0x11838;
     //recoil control system
